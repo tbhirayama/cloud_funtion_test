@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "start-guid-for-cloud-functions"
+  }
+}
